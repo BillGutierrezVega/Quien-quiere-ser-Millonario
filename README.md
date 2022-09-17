@@ -1,8 +1,11 @@
 # ¿Cuánto sabes de Python?
+Esta trivia te va a probar cuanto sabes de python
 
-[Demo](https://replit.com/@BillGutierrez/Quien-quiere-ser-Millonario)
+## Prueba el demo
 
-## lo averiguaremos...
+Si desea probar un [Demo](https://replit.com/@BillGutierrez/Quien-quiere-ser-Millonario) se le agradece.
+
+
 💰💰💰Python💰💰💰
 
 # licencia
